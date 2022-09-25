@@ -1,0 +1,98 @@
+.signin-container{
+  display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+}
+
+.signin-container img{
+  height: 30px;
+  width: 80px;
+}
+
+.bigboi p{
+  font-size: 40px;
+  margin-bottom: 5px;
+}
+
+.signin-container p{
+  margin-bottom: 20px;
+}
+
+.signin{
+  display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+	height: 200px;
+	width: 200px;
+
+}
+
+.signin img{
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+.signin input{
+  background-color: #FCEEA7;
+  height: 25px;
+}
+
+.signin button{
+  width: 175px;
+  height: 25px;
+  background-color: #4C8BF5;
+  color: white;
+  border-radius: 5px;
+border: 2px solid #4C8BF5;
+}
+
+.signin a{
+  font-size: 13px;
+  margin-left: 120px;
+  margin-top: 5px;
+
+}
+
+.create{
+  display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+}
+
+.create a{
+  text-decoration: none;
+  color: #4C8BF5;
+}
+
+.icons img{
+height: 17px;
+width: 17px;
+margin: 5px;
+}
+
+footer{
+  display: flex;
+	flex-direction: row-reverse;
+	flex-wrap: nowrap;
+	justify-content: flex-end;
+	align-items: flex-end;
+	align-content: stretch;
+	margin-top: 100px;
+}
+
+footer p{
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 16px;
+}
