@@ -91,11 +91,7 @@ margin-top: 23%;
 	align-content: flex-end;
 }
 
+footer p {
+margin: 10px;
 }
 
-footer p{
-  margin-left: 20px;
-  margin-right: 10px;
-  font-size: 16px;
-
-}
